@@ -1,0 +1,24 @@
+/** @format */
+
+.goodsName {
+  color: white;
+  background: pink;
+  padding: 10px;
+}
+
+img {
+  max-width: 40%;
+}
+
+.price {
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+}
+.initialPrice {
+  text-decoration: line-through;
+}
+
+.newPrice {
+  color: rgb(192, 192, 16);
+}

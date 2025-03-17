@@ -1,0 +1,11 @@
+/** @format */
+
+.timeContainer {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 25px;
+}
+.time {
+  background: rgb(232, 82, 82);
+  padding: 10px;
+}
